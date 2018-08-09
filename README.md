@@ -5,4 +5,5 @@ Name:Kelvintos
 
 Instituition:JKUAT
 
-i am at the OpenScienceKE to... UoN.Having fun here
+i am at the OpenScienceKE to... UoN.Having fun here.
+I am getting on well.
