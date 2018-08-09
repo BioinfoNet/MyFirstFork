@@ -1,8 +1,8 @@
 # My First Fork
 Fork this repository and make changes to the README
 
-Name:
+Name:Kelvintos
 
-Instituition:
+Instituition:JKUAT
 
-i am at the OpenScienceKE to ... 
+i am at the OpenScienceKE to... UoN.Having fun here
