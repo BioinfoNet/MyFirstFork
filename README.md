@@ -1,8 +1,8 @@
 # My First Fork
 Fork this repository and make changes to the README
 
-Name:
+> Name: Kennedy Mwangi
 
-Instituition:
+> Instituition: JKUAT
 
-i am at the OpenScienceKE to ... 
+I am at the OpenScienceKE to learn about Open Science
