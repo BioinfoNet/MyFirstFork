@@ -1,8 +1,9 @@
 # My First Fork
 Fork this repository and make changes to the README
 
-Name:
+## Name: Fredrick Musila
 
-Instituition:
+## Instituition:TUK
 
-i am at the OpenScienceKE to ... 
+**_i am at the OpenScienceKE to learn Github_**
+![image] (https://twitter.com/hashtag/OpenScienceKE?src=hash)
