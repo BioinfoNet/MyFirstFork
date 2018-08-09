@@ -1,8 +1,8 @@
 # My First Fork
 Fork this repository and make changes to the README
 
-Name:
+Name: Boniface Muganda
 
-Instituition:
+Instituition: icipe
 
-i am at the OpenScienceKE to ... 
+i am at the OpenScienceKE to ... : meet new people
