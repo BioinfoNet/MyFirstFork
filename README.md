@@ -1,8 +1,9 @@
 # My First Fork
 Fork this repository and make changes to the README
 
-Name:
+# *Name* : Angela Muraya
 
-Instituition:
+## _Instituition_: JKUAT
 
-i am at the OpenScienceKE to ... 
+### I am at the __OpenScienceKE__ to learn about all the wonderful Bioinformatic tools available for us to do awesome research. 
+![Angela In the Building!](https://pbs.twimg.com/media/DkJvXyBXcAAT_7d.jpg 'Angela in the Building!')
