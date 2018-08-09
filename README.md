@@ -1,8 +1,8 @@
 # My First Fork
 Fork this repository and make changes to the README
 
-Name:
+Name:BEYENE DERIBA ABERA
 
-Instituition:
+Instituition:OPENSCIENCE WORKSHOP
 
-i am at the OpenScienceKE to ... 
+I am Deriba from Ethiopia and joined JKUAT for learning Molecular Biology and Bioinformatics 
