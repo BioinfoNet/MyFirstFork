@@ -5,4 +5,6 @@ Fork this repository and make changes to the README
 
 > Instituition: JKUAT
 
-I am at the OpenScienceKE to learn about Open Science
+I am at the [OpenScienceKE](https://github.com/BioinfoNet) to learn about Open Science
+
+![Open Science](https://pbs.twimg.com/media/DkJv_xUX4AA1Qqc.jpg)
