@@ -5,5 +5,6 @@ Name:kamonde mwangi
 
 Instituition:JKUAT
 
-i am at the OpenScienceKE to ...**LEARN**
+i am at the OpenScienceKE to ...**LEARN**,_network_
+![](https://pbs.twimg.com/media/DjoJRB2X0AYluQW.jpg)
 
