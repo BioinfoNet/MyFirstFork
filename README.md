@@ -5,4 +5,6 @@ Name:
 
 Instituition:
 
+Duration:
+
 i am at the OpenScienceKE to ... 
