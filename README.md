@@ -3,7 +3,7 @@ Fork this repository and make changes to the README
 
 > Name: Kennedy Mwangi
 
-> Instituition: JKUAT
+> Instituition: JKUAT, Juja Campus
 
 I am at the [OpenScienceKE](https://github.com/BioinfoNet) to learn about Open Science
 
