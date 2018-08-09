@@ -1,7 +1,7 @@
 # My First Fork
 Fork this repository and make changes to the README
 
-Name:**mgawe cavin**
+Name:*mgawe cavin*
 
 Instituition:*Jomo kenyatta university*
 
