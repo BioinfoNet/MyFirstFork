@@ -8,4 +8,8 @@ Instituition: ICIPE
 
 I am at the East Africa Open Science Tour to learn and train on Open Science Tools
 
+---
+## Parwos Abraham
+[ University of Nairobi ](http://cebib.uonbi.ac.ke/)
+> I am at the East Africa Open Science Tour to learn and train on Open Science Tools
 
