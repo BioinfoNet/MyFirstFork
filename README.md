@@ -1,8 +1,8 @@
 # My First Fork
 Fork this repository and make changes to the README
 
-Name:Caleb
+Name:A.Mitema
 
-Instituition: UONBI
+Instituition: UoN
 
-i am at the OpenScienceKE to learn and train.
+I am at the Esat African Science to learn and train.
