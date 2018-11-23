@@ -42,4 +42,13 @@ I am at the East Africa Open Science Tour to learn and train on Open Science Too
 
 Instituition: ICIPE
 
+
+
+## Rebecca
+
+Instituition: ICIPE
+
+I am at the East Africa Open Science Tour to learn and train on Open Science Tools
+
+
 i am at the East Africa Open Science tour to learn and train on the Open Science Forum
