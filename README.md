@@ -1,5 +1,4 @@
 # My First Fork
-
 Fork this repository and make changes to the README
 
 
@@ -19,9 +18,17 @@ I am at the East Africa Open Science Tour to learn open science and GitHub use.
 
 ## Caleb Kibet
 
+
+Instituition: UONBI
+
+i am at the OpenScienceKE to learn and train.
+
+
+## Name:Joel
+
 Instituition: ICIPE
 
-I am at the East Africa Open Science Tour to learn and train on Open Science Tools
+I am at the East Africa Open Science Tour to learn on Open Science tools.
 
 
 # Name:Henry Ondabu
