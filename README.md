@@ -38,14 +38,14 @@ Institution:ICIPE
 I am at the OpenScienceKE to learn and train.
 
 
-## Name:Joel
+## Joel
 
 Instituition: ICIPE
 
 I am at the East Africa Open Science Tour to learn on Open Science tools.
 
 
-## Name:Henry Ondabu
+## Henry Ondabu
 
 Instituition: UON
 
