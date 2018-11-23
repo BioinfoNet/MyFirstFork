@@ -9,3 +9,10 @@ Instituition: ICIPE
 I am at the East Africa Open Science Tour to learn and train on Open Science Tools
 
 
+
+## Caleb Kibet
+
+Instituition: ICIPE
+
+I am at the East Africa Open Science Tour to learn and train on Open Science Tools
+
