@@ -75,5 +75,5 @@ I am at the East Africa Open Science tour to learn and train on the Open Science
 
 ## bwanya
 
-This is my first fork, done from the bioinformatics lab in Pwani University
+Right at the bioinformatics lab in Pwani University
 
