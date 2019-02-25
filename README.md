@@ -71,3 +71,9 @@ Made first fork
 Instituition:
 
 I am at the East Africa Open Science tour to learn and train on the Open Science Forum
+
+## Njagi
+
+Instituition: Pwani University
+
+I'm a student at Pwani
