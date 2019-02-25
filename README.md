@@ -75,5 +75,5 @@ I am at the East Africa Open Science tour to learn and train on the Open Science
 
 ## bwanya
 
-Right at the bioinformatics lab in Pwani University
+Right at the bioinfo lab in Pwani University
 
