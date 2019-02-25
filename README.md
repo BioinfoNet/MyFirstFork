@@ -95,3 +95,8 @@ I'm a student at Pwani
 Finally forked.
 
 A great feeling
+
+
+## JoyK
+I got a rejection mail.
+Was given options of deleting the fork.
