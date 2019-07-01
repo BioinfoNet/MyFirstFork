@@ -1,7 +1,7 @@
 # My First Fork
 Fork this repository and make changes to the README
 
-Name:kamonde mwangi, CK
+Name:kamonde mwangi
 
 Instituition:JKUAT
 
