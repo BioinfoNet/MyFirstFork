@@ -24,3 +24,9 @@ Name: Festus
 Instituition: Pwani University
 
 Tagline: It's always fun
+
+Name: Joseph Mulama 
+
+Instituition: Pwani University 
+
+Tagline: **Awesome!**
