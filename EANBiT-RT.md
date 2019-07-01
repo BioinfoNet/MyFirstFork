@@ -1,5 +1,11 @@
 # Add your name here
 
+Name: Martha Luka
+
+Instituition: Pwani University
+
+Tagline: I was here
+
 Name: Henrick Aduda
 
 Instituition: Pwani University
