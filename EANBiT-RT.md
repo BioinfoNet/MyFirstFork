@@ -1,7 +1,7 @@
 # Add your name here
 
-Name: 
+Name: Henrick Aduda
 
-Instituition: 
+Instituition: Pwani University
 
-Tagline: 
+Tagline: Learning github
