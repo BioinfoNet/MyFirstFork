@@ -1,7 +1,9 @@
 # Add your name here
 
-Name: 
+Name: Bwanya Brian
 
-Instituition: 
+Instituition: Pwani University 
 
 Tagline: 
+
+< There's only one rule, Hunt or be Hunted
