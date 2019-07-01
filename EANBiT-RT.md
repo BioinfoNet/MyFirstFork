@@ -1,13 +1,7 @@
 # Add your name here
 
-Name: Michael Landi 
+Name: Mike Mwanga
 
 Instituition: Pwani University 
 
-Tagline: `Think_Differently`
-
-Name: Festus 
-
-Instituition: Pwani University
-
-Tagline: It's always fun
+Tagline: *Cheers*
