@@ -1,7 +1,7 @@
 # Add your name here
 
-Name: 
+Name: elizabeth mwangi
 
-Instituition: 
+Instituition: JKUAT
 
-Tagline: 
+Tagline: At EANBiT Residential training 2019 to learn various bionformatics tools
