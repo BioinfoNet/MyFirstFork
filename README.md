@@ -75,7 +75,7 @@ I am at the East Africa Open Science tour to learn and train on the Open Science
 
 ## JoyK
 
-Name : Joy K
+Email: kabzjoy@gmail.com
 
 Institution: Pwani University
 
