@@ -1,7 +1,7 @@
 # My First Fork
 Fork this repository and make changes to the README
 
-Name:Caleb
+Name:Caleb Kibet
 
 Instituition:KBN
 
