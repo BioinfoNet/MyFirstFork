@@ -31,6 +31,13 @@ Instituition: KWTRP
 
 Tagline: *Cheers*
 
+
+Name: Peter
+
+Instituition: KIDH, TZ
+
+Tagline: Happy being here
+
 Name: Henrick Aduda
 
 Instituition: Pwani University
