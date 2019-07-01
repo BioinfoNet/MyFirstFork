@@ -1,7 +1,7 @@
 # Add your name here
 
-Name: 
+Name: Michael Landi 
 
-Instituition: 
+Instituition: Pwani University 
 
-Tagline: 
+Tagline: `Think_Differently`
