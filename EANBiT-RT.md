@@ -7,7 +7,6 @@ Instituition: KWTRP
 
 Tagline: `Think_Differently`
 
-
 Name: David Kiragu Mwaura
 
 Instituition: Jomo Kenyatta University of Agriculture and Technology(JKUAT)
@@ -20,12 +19,17 @@ Instituition: Pwani University
 
 Tagline: I was here
 
-
 Name: elizabeth mwangi
 
 Instituition: JKUAT
 
 Tagline: interesting
+
+Name: John Oketch 
+
+Instituition: KWTRP
+
+Tagline: *Cheers*
 
 Name: Henrick Aduda
 
@@ -41,9 +45,9 @@ Tagline: "helloworld"
 
 Name: Michael Landi 
 
-Instituition: KWTRP
+Instituition: Pwani University 
 
-Tagline: *Cheers*
+Tagline: 'Adventurer'
 
 Name: Festus 
 
