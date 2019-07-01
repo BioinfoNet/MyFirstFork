@@ -69,6 +69,7 @@ Instituition: Pwani University
 
 Tagline: 'Adventurer'
 
+Email: landicofia@gmail.com
 ---
 **Name: Festus** 
 
@@ -77,12 +78,15 @@ Instituition: Pwani University
 Tagline: It's always fun
 ![Festus](https://ideal.kemri-wellcome.org/wp-content/uploads/2017/09/DSC_0107.jpg)
 
+Email: nfestus14@gmail.com
 ---
 **Name: Careen** 
 
 Instituition: Icipe 
 
 Tagline: i am at EANBIT residential training  to ... learn  how to apply bioinformatic skills 
+
+Email: careennaitore@gmail.com
 
 ---
 **Name: Joseph Mulama**
