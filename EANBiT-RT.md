@@ -1,5 +1,11 @@
 # Add your name here
 
+Name: Henrick Aduda
+
+Instituition: Pwani University
+
+Tagline: Learning github
+
 
 Name: Karega Pauline
 
@@ -18,4 +24,3 @@ Name: Festus
 Instituition: Pwani University
 
 Tagline: It's always fun
-
