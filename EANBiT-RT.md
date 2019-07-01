@@ -1,7 +1,7 @@
 # Add your name here
 
-Name: 
+Name: David Kiragu Mwaura
 
-Instituition: 
+Instituition: Jomo Kenyatta University of Agriculture and Technology(JKUAT)
 
-Tagline: 
+Tagline: Train_A_Trainer
