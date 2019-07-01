@@ -1,6 +1,6 @@
 # I am adding my name
 ---
-**Name:** Bwanya Brian
+**Name: Bwanya Brian**
 
 Instituition: Pwani University 
 
@@ -69,7 +69,7 @@ Instituition: Pwani University
 
 Tagline: 'Adventurer'
 
-
+---
 **Name: Festus** 
 
 Instituition: Pwani University
