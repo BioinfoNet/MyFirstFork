@@ -1,7 +1,7 @@
-# Add your name here
+# I am adding my name
 
 Name: Mike Mwanga
 
-Instituition: Pwani University 
+Instituition: KWTRP
 
 Tagline: *Cheers*
