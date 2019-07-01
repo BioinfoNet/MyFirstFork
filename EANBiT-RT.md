@@ -4,6 +4,4 @@ Name: Bwanya Brian
 
 Instituition: Pwani University 
 
-Tagline: 
-
-< There's only one rule, Hunt or be Hunted
+Tagline: There's only one rule, Hunt or be Hunted
