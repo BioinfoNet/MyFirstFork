@@ -1,5 +1,12 @@
 # Add your name here
 
+
+Name: Karega Pauline
+
+Instituition: ICIPE
+
+Tagline: "helloworld"
+
 Name: Michael Landi 
 
 Instituition: Pwani University 
@@ -11,3 +18,4 @@ Name: Festus
 Instituition: Pwani University
 
 Tagline: It's always fun
+
