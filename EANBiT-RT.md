@@ -70,6 +70,8 @@ Instituition: Pwani University
 Tagline: 'Adventurer'
 
 
+![Festus](https://ideal.kemri-wellcome.org/wp-content/uploads/2017/09/DSC_0107.jpg)
+
 Name: Festus 
 
 Instituition: Pwani University
