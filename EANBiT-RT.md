@@ -1,7 +1,7 @@
 # Add your name here
 
-Name: 
+Name: Tolbert
 
-Instituition: 
+Instituition: KCRI
 
-Tagline: 
+Tagline: A wanna be bioinformatician
