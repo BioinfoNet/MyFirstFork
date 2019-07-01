@@ -1,4 +1,10 @@
-# I am adding my name
+Adding one more student
+
+Name: Moses Kuria
+
+Institution: GOK
+
+Tagline: 2022
 
 
 Name: Mike Mwanga
