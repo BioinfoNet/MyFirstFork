@@ -1,5 +1,18 @@
+
+## Created new branch called Newbranch
+***
+
+
+
+
+
+
+# I am adding my name
+Name: Alex Kanyande
+=======
 Adding a student
 Name: Moses Kuria
+
 
 Institution: GOK
 
