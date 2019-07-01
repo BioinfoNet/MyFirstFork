@@ -44,7 +44,7 @@ Instituition: ICIPE
 
 I am at the East Africa Open Science Tour to learn on Open Science tools.
 
-
+bi
 ## Henry Ondabu
 
 Instituition: UON
@@ -74,9 +74,9 @@ I am at the East Africa Open Science tour to learn and train on the Open Science
 
 ### Atemia
 
-Forking 
+The second forking for the EANBit Residential Training
 
-Pwani University 
+Pwani University MSc. Student
 
 ## Njagi
 
