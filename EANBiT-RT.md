@@ -1,7 +1,7 @@
 # Add your name here
 
-Name: 
+Name: Festus 
 
-Instituition: 
+Instituition: Pwani University
 
-Tagline: 
+Tagline: It's always fun
