@@ -1,10 +1,10 @@
 # My First Fork
 Fork this repository and make changes to the README
 
-Name:kamonde mwangi
+Name:kamonde mwangi, CK
 
 Instituition:JKUAT
 
-i am at the EANBit 2019 training to ...**LEARN**,_network_
+i am at the EANBiT 2019 training to ...**LEARN**,_network_
 ![](https://pbs.twimg.com/media/DjoJRB2X0AYluQW.jpg)
 
