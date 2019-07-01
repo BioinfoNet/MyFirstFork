@@ -1,4 +1,11 @@
-# Add your name here
+# I am adding my name
+
+
+Name: Mike Mwanga
+
+Instituition: KWTRP
+
+Tagline: `Think_Differently`
 
 
 Name: David Kiragu Mwaura
@@ -27,9 +34,9 @@ Tagline: "helloworld"
 
 Name: Michael Landi 
 
-Instituition: Pwani University 
+Instituition: KWTRP
 
-Tagline: `Think_Differently`
+Tagline: *Cheers*
 
 Name: Festus 
 
