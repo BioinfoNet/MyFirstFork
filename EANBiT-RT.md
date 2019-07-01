@@ -1,10 +1,17 @@
 # Add your name here
 
-Peter
 
-KIDH, TZ
+Name: Peter
 
-Happy being here
+Instituition: KIDH, TZ
+
+Tagline: Happy being here
+
+Name: Henrick Aduda
+
+Instituition: Pwani University
+
+Tagline: Learning github
 
 Name: Karega Pauline
 
@@ -23,4 +30,3 @@ Name: Festus
 Instituition: Pwani University
 
 Tagline: It's always fun
-
