@@ -20,6 +20,13 @@ Instituition: Pwani University
 
 Tagline: I was here
 
+
+Name: elizabeth mwangi
+
+Instituition: JKUAT
+
+Tagline: interesting
+
 Name: Henrick Aduda
 
 Instituition: Pwani University
