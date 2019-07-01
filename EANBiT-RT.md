@@ -1,13 +1,8 @@
 # Add your name here
 
-Name: Michael Landi 
+Name: John Oketch 
 
 Instituition: Pwani University 
 
-Tagline: `Think_Differently`
+Tagline: 'Adventurer'
 
-Name: Festus 
-
-Instituition: Pwani University
-
-Tagline: It's always fun
