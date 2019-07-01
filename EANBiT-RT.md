@@ -1,11 +1,16 @@
 # Add your name here
 
+Name: Martha Luka
+
+Instituition: Pwani University
+
+Tagline: I was here
+
 Name: Henrick Aduda
 
 Instituition: Pwani University
 
 Tagline: Learning github
-
 
 Name: Karega Pauline
 
@@ -29,4 +34,10 @@ Name: Careen
 
 Instituition: Icipe 
 
-Tag line: i am at EANBIT residential training  to ... learn  how to apply bioinformatic skills \
+Tag line: i am at EANBIT residential training  to ... learn  how to apply bioinformatic skills 
+
+Name: Joseph Mulama 
+
+Instituition: Pwani University 
+
+Tagline: **Awesome!**
