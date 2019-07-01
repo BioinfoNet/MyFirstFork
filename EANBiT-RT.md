@@ -91,3 +91,11 @@ Instituition: Pwani University
 
 Tagline: **Awesome!**
 
+---
+Name: Joy K
+
+Instituition: Pwani University 
+
+Tagline: Life is in session. Live!
+
+Email: kabzjoy@gmail.com
