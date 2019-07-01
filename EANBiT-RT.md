@@ -1,7 +1,9 @@
-# I am adding my name
-Name: Alex Kanyande
+Adding a student
+Name: Moses Kuria
+
 Institution: GOK
-Tagline : No corruption
+
+Tagline : No corruption 2022
 
 
 Name: Bwanya Brian
