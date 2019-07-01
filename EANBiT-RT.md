@@ -1,4 +1,8 @@
 # I am adding my name
+Name: Alex Kanyande
+Institution: GOK
+Tagline : No corruption
+
 
 Name: Bwanya Brian
 
