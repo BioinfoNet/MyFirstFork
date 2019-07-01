@@ -1,5 +1,12 @@
 # Add your name here
 
+
+Name: David Kiragu Mwaura
+
+Instituition: Jomo Kenyatta University of Agriculture and Technology(JKUAT)
+
+Tagline: Train_A_Trainer
+
 Name: Martha Luka
 
 Instituition: Pwani University
@@ -41,3 +48,4 @@ Name: Joseph Mulama
 Instituition: Pwani University 
 
 Tagline: **Awesome!**
+
