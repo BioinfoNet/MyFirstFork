@@ -1,7 +1,7 @@
 # Add your name here
 
-Name: 
+Name: Mike Mwanga
 
-Instituition: 
+Instituition: KWTRP
 
-Tagline: 
+Tagline: At EANBIT Training Git Training.
