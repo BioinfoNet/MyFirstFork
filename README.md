@@ -73,6 +73,15 @@ Instituition:
 I am at the East Africa Open Science tour to learn and train on the Open Science Forum
 
 
+## JoyK
+
+Name : Joy K
+
+Institution: Pwani University
+
+Tagline: Life Is In Session. Live
+
+
 ## Henrick 
 Institution: PU
 
@@ -101,3 +110,4 @@ A great feeling
 Pwani University
 
 Finally
+
