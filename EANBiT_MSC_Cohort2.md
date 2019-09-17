@@ -1,8 +1,21 @@
 
 
+
 # eneza mjema
 
 have fun
+
+## Nanjala ##
+
+
+Coding is fun
+
+# Eneza Mjema
+
+EANBiT fellow
+
+I am a Liverpool fan.
+
 
 # winfred
 > its programming time 
