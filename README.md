@@ -137,8 +137,8 @@ MAKING GREAT STRIDES TOWARDS MY CARRER.
 
 ## Bryan Etindi Abuchery
 
-I am an Bioinformatics Intern at ICIPE
+I am a Bioinformatics Intern at ICIPE
 
-An Arsenal fan!
+A die hard Arsenal fan!
 
 
