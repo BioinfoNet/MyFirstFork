@@ -1,7 +1,12 @@
 
-# My First Fork at EANBiT RT
+## Margaret
+Institution: Icipe
 
-Fork this repository and make changes to the README
+
+
+## Virginiah 
+####### institution : ICIPE
+
 
 ## Joseph
 
@@ -110,4 +115,19 @@ A great feeling
 Pwani University
 
 Finally
+
+
+### Eneza Mjema
+
+EANBiT fellow
+
+i am a Liverpool fan
+
+
+## Bryan Etindi Abuchery
+
+I am an Bioinformatics Intern at ICIPE
+
+An Arsenal fan!
+
 
