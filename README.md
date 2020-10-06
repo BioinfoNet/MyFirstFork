@@ -123,6 +123,6 @@ i am a Liverpool fan
 
 I am a Bioinformatics Intern at ICIPE
 
-An die hard Arsenal fan!
+A die hard Arsenal fan!
 
 
