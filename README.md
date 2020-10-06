@@ -123,3 +123,10 @@ EANBiT fellow
 i am a Liverpool fan
 
 
+## Bryan Etindi Abuchery
+
+I am an Bioinformatics Intern at ICIPE
+
+An Arsenal fan!
+
+
