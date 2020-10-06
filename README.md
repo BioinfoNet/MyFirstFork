@@ -128,6 +128,12 @@ EANBiT fellow
 
 i am a Liverpool fan
 
+**FREDRICK KEBASO 
+
+MBBU INTERN AT ICIPE 
+
+MAKING GREAT STRIDES TOWARDS MY CARRER.
+
 
 ## Bryan Etindi Abuchery
 
