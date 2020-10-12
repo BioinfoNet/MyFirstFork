@@ -1,8 +1,8 @@
 ## Cohort 3 Details
 
 
-Name: 
+Name: Marion Nyaboke
 
-Background:
+Background:Bsc Microbiology and Biotechnology
 
-Fun fact: 
+Fun fact: I am a cat mom :)
