@@ -1,8 +1,8 @@
 ## Cohort 3 Details
 
 
-Name: 
+Name: EUNICE NJUGUNA
 
-Background:
+Background:GENOMIST
 
 Fun fact: 
