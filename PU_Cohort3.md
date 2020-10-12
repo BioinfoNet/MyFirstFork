@@ -11,3 +11,10 @@ Fun fact: Pinapples are life
 
 Bio: If its about change and positivity, i'm in!
 
+
+Name: ken Mugambi
+
+Background: Microbiology
+
+Fun fact: Chelsea for life 
+
