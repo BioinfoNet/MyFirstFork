@@ -2,6 +2,13 @@
 
 
 
+Name: Clement Mlay
+
+Background: BSc in Molecular Biology and Biotechnology
+
+Fun fact: I like sweeming
+
+
 Name: hesborn omwandho
 
 Background:biomedical science and technology
