@@ -1,8 +1,8 @@
 ## Cohort 3 Details
 
 
-Name: 
+Name: Clement Mlay
 
-Background:
+Background: BSc in Molecular Biology and Biotechnology
 
-Fun fact: 
+Fun fact: I like sweeming
