@@ -5,4 +5,4 @@ Name: EUNICE NJUGUNA
 
 Background:GENOMIST
 
-Fun fact: 
+Fun fact: SKATING
