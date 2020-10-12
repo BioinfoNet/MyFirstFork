@@ -1,8 +1,8 @@
 ## Cohort 3 Details
 
 
-Name: 
+Name: ken Mugambi
 
-Background:
+Background: Microbiology
 
-Fun fact: 
+Fun fact: Chelsea for life 
