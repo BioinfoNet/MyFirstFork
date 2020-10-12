@@ -1,6 +1,13 @@
 ## Cohort 3 Details
 
 
+
+Name: Gladys
+
+Background:microbiology
+
+Fun fact: live life
+
 Name: Nyasita
 
 Background: Medical Biochem
