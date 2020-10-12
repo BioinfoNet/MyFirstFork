@@ -5,7 +5,7 @@ Name: Brenda Muthoni Karumbo
 
 Background:Biochemistry
 
-Fun fact: cockroaches have 13 hearts :-)
+Fun fact: cockroaches have 13 heart chambers :-)
 
 Ilove beaches  take a look
 ![beach](https://www.greeka.com/greece-beaches/)
