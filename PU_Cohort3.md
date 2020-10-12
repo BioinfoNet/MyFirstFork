@@ -2,6 +2,16 @@
 
 
 
+Name: Brenda Muthoni Karumbo
+
+Background:Biochemistry
+
+Fun fact: cockroaches have 13 heart chambers :-)
+
+Ilove beaches  take a look
+![beach](https://www.greeka.com/greece-beaches/)
+
+
 Name: Clement Mlay
 
 Background: BSc in Molecular Biology and Biotechnology
@@ -38,5 +48,6 @@ Name: ken Mugambi
 Background: Microbiology
 
 Fun fact: Chelsea for life 
+
 
 
