@@ -1,8 +1,8 @@
 ## Cohort 3 Details
 
 
-Name: 
+Name: Alex Kimani
 
-Background:
+Background: Microbiologist turned into Bioinformatician
 
-Fun fact: 
+Fun fact: Sequencing
