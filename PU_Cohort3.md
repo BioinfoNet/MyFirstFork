@@ -1,8 +1,11 @@
 ## Cohort 3 Details
 
 
-Name: 
+Name: Brenda Muthoni Karumbo
 
-Background:
+Background:Biochemistry
 
-Fun fact: 
+Fun fact: cockroaches have 13 hearts :-)
+
+Ilove beaches  take a look
+![beach](https://www.greeka.com/greece-beaches/)
