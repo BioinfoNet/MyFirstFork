@@ -1,8 +1,8 @@
 ## Cohort 3 Details
 
 
-Name: 
+Name: Pauline King'ori
 
-Background:
+Background:Biomedical Science and Technology
 
 Fun fact: 
