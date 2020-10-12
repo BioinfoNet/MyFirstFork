@@ -2,6 +2,14 @@
 
 
 
+Name: Ruth Moraa
+
+Background:BSc. Microbiology
+
+Fun fact: I like the ocean
+
+---
+
 Name: Marion Nyaboke
 
 Background:Bsc Microbiology and Biotechnology
@@ -72,4 +80,5 @@ Background: Microbiology
 Fun fact: Chelsea for life 
 
 ---
+
 
