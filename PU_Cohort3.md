@@ -1,8 +1,13 @@
 ## Cohort 3 Details
 
 
-Name: 
+Name: Nyasita
 
-Background:
+Background: Medical Biochem
 
-Fun fact: 
+Fun fact: Pinapples are life
+
+![DP](https://avatars0.githubusercontent.com/u/72727098?s=460&v=4)
+
+Bio: If its about change and positivity, i'm in!
+
