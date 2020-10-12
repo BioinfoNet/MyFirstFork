@@ -2,6 +2,13 @@
 
 
 
+Name: hesborn omwandho
+
+Background:biomedical science and technology
+
+Fun fact: football
+
+
 Name: Gladys
 
 Background:microbiology
@@ -24,4 +31,5 @@ Name: ken Mugambi
 Background: Microbiology
 
 Fun fact: Chelsea for life 
+
 
