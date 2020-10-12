@@ -1,8 +1,10 @@
 ## Cohort 3 Details
 
 
-Name: 
+Name: Ruth Moraa
 
-Background:
+Background:BSc. Microbiology
 
-Fun fact: 
+Fun fact: I like the ocean
+
+
