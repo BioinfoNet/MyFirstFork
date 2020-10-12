@@ -1,8 +1,8 @@
 ## Cohort 3 Details
 
 
-Name: 
+Name: hesborn omwandho
 
-Background:
+Background:biomedical science and technology
 
 Fun fact: 
