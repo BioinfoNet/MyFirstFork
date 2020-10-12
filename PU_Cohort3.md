@@ -5,4 +5,4 @@ Name: hesborn omwandho
 
 Background:biomedical science and technology
 
-Fun fact: 
+Fun fact: football
