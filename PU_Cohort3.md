@@ -1,6 +1,8 @@
 ## Cohort 3 Details
 
+Alex kimani
 
+kenya 
 
 Name: Ruth Moraa
 
