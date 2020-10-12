@@ -2,6 +2,14 @@
 
 
 
+Name: Marion Nyaboke
+
+Background:Bsc Microbiology and Biotechnology
+
+Fun fact: I am a cat mom :)
+
+---
+
 Name: EUNICE NJUGUNA
 
 Background:GENOMIST
@@ -64,3 +72,4 @@ Background: Microbiology
 Fun fact: Chelsea for life 
 
 ---
+
