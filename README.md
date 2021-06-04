@@ -1,3 +1,7 @@
+## bole
+
+bioinformatics
+
 ## Lmelias
 
 Instituition: icipe
@@ -140,6 +144,14 @@ MAKING GREAT STRIDES TOWARDS MY CARRER.
 I am a Bioinformatics Intern at ICIPE
 
 A die hard Arsenal fan!
+
+
+## PARCELLI
+
+Institution: ICIPE
+
+I am happy to learn Bioinformatics
+
 
 ## John Njogu
 
