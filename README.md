@@ -146,5 +146,5 @@ A die hard Arsenal fan!
 
 Intern-Bionformatics-ICIPE
 
-*Motivated in genetics and bionformatics*
+*Plant scientist motivated in genetics and bionformatics*
 
