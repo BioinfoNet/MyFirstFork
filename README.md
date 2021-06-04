@@ -143,6 +143,6 @@ A die hard Arsenal fan!
 
 ## John Njogu
 
-_MMBU Intern At ICIPE
+_MMBU Intern At ICIPE__
 
-__Keeping in Straight and Narrow
+__Keeping in Straight and Narrow__
