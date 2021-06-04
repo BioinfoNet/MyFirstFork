@@ -145,6 +145,7 @@ I am a Bioinformatics Intern at ICIPE
 
 A die hard Arsenal fan!
 
+
 ## PARCELLI
 
 Institution: ICIPE
@@ -152,5 +153,8 @@ Institution: ICIPE
 I am happy to learn Bioinformatics
 
 
+## John Njogu
 
+_MMBU Intern At ICIPE__
 
+__Keeping in Straight and Narrow__
