@@ -141,4 +141,8 @@ I am a Bioinformatics Intern at ICIPE
 
 A die hard Arsenal fan!
 
+**John Njogu
 
+_MMBU Intern At ICIPE
+
+__Keeping in Straight and Narrow
