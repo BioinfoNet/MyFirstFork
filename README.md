@@ -142,11 +142,4 @@ I am a Bioinformatics Intern at ICIPE
 A die hard Arsenal fan!
 
 
-## Okeyo Allan 
 
-**ICIPE**    
-
-Bioinformatics intern    
-
-
-*Learning to grow*
