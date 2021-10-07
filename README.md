@@ -142,3 +142,8 @@ I am a Bioinformatics Intern at ICIPE
 A die hard Arsenal fan!
 
 
+## JB Mugi
+* Bioinformatics intern at icipe (cohort 4)
+* Sci-tech enthusiast.
+* JKUAT
+
