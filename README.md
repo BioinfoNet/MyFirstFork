@@ -141,4 +141,7 @@ I am a Bioinformatics Intern at ICIPE
 
 A die hard Arsenal fan!
 
+## Collins Kigen
+Institution ```ICIPE ```
+> "In **everything**, give your **best**"
 
