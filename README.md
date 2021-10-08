@@ -142,3 +142,8 @@ I am a Bioinformatics Intern at ICIPE
 A die hard Arsenal fan!
 
 
+## Nelly Wambui
+
+Bioinformatics Intern 
+
+I am excited
