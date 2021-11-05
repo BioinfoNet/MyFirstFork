@@ -141,4 +141,8 @@ I am a Bioinformatics Intern at ICIPE
 
 A die hard Arsenal fan!
 
+## Winnie
+
+Aspiring Bioinformatician!
+
 
