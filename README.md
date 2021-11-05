@@ -1,3 +1,7 @@
+## Boakye Emmanuel
+Institution: Kwame Nkrumah Univeristy Of Science And Technology
+A budding biochemist with a keen interest in Bioinformatics and Molecular Genetics
+
 ## Lmelias
 
 Instituition: icipe
