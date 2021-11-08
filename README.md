@@ -151,4 +151,8 @@ A die hard Arsenal fan!
 
 Aspiring Bioinformatician!
 
+## Hilda Wacuka
 
+Hello :wave:
+
+I am an MSc Bioinformatics student at Pwani University, and new to Github!
