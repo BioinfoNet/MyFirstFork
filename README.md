@@ -151,4 +151,12 @@ A die hard Arsenal fan!
 
 Aspiring Bioinformatician!
 
+## Felix Mathias
+
+|Host Institution|Host University|Activity|
+|---|---|---|
+|ICIPE|Pwani|Msc Bioinformatics Fellow|
+
+
+
 
