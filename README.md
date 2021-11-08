@@ -153,9 +153,9 @@ Aspiring Bioinformatician!
 
 ## Felix Mathias
 
-|Host Institution|Host college|Activity|
+|Host Institution|Host University|Activity|
 |---|---|---|
-|ICIPE|Pwani University|Msc Bioinformatics Fellow|
+|ICIPE|Pwani|Msc Bioinformatics Fellow|
 
 
 
