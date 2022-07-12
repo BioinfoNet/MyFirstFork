@@ -6,14 +6,14 @@
 
 **Fun fact:** I love reading novels 
 
-# Name: Cynthia Kamau
-![](https://ca.slack-edge.com/T01AW0MEK6G-U03NZD69Q9Y-8fcafba71817-512)
+# Name: Ann Laigong
+![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.LNIuM78Pk-knK6cl_himzQHaEL%26pid%3DApi&f=1)
 
 **University:** Jomo Kenyatta University Of Agriculture and Technology
 
 **Degree:** Bsc Genomic science
 
-**Fun fact:** I love reading,blogging and hacking. 
+**Fun fact:** I love reading pyscho-thriller novels. 
 
 
 # Name: Mark Njama
