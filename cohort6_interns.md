@@ -1,6 +1,6 @@
 
 # Name: Ann Laigong
-![](https://www.instagram.com/p/CNck4NFAENb/)
+![](https://pbs.twimg.com/profile_images/1382636589432602626/8d5HVCe7_400x400.jpg)
 
 **University:** Jomo Kenyatta University of Agriculture and Technology
 
