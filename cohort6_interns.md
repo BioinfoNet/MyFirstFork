@@ -1,10 +1,10 @@
 
-# Name: Caleb Kibet
-![](https://pbs.twimg.com/profile_images/1131946278621995010/FwrMhyJg_400x400.jpg)
+# Name:vanessa Natasha
+![image](https://user-images.githubusercontent.com/109069282/178468261-b8652596-1b8d-4683-bf38-df5f815531be.png)
 
-**University:** Rhodes University
+**University:** Mount Kenya University
 
-**Degree:** PhD Bioinformatics
+**Degree:**   Bsc Biotechnology 
 
-**Fun fact:** I love Hiking. 
+**Fun fact:** I love reading novels 
 
