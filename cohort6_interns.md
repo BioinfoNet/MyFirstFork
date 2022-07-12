@@ -1,10 +1,10 @@
 
-# Name: Caleb Kibet
-![](https://pbs.twimg.com/profile_images/1131946278621995010/FwrMhyJg_400x400.jpg)
+# Name: Cynthia Kamau
+![](https://ca.slack-edge.com/T01AW0MEK6G-U03NZD69Q9Y-8fcafba71817-512)
 
-**University:** Rhodes University
+**University:** Jomo Kenyatta University Of Agriculture and Technology
 
-**Degree:** PhD Bioinformatics
+**Degree:** Bsc Genomic science
 
-**Fun fact:** I love Hiking. 
+**Fun fact:** I love reading,blogging and hacking. 
 
