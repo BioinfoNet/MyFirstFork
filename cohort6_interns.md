@@ -1,10 +1,10 @@
 
-# Name: Caleb Kibet
-![](https://pbs.twimg.com/profile_images/1131946278621995010/FwrMhyJg_400x400.jpg)
+# Name: Ann Laigong
+![](https://www.instagram.com/p/CNck4NFAENb/)
 
-**University:** Rhodes University
+**University:** Jomo Kenyatta University of Agriculture and Technology
 
-**Degree:** PhD Bioinformatics
+**Degree:** Bsc Genomic Science
 
-**Fun fact:** I love Hiking. 
+**Fun fact:** I can move one ear. 
 
